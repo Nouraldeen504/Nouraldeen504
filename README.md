@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer who loves building web apps with React, Django, and other modern tools. I enjoy tackling problems, learning new technologies, and contributing to cool projects.
+I'm a software engineering student who loves building web apps with React, Django, and other modern tools. I enjoy tackling problems, learning new technologies, and contributing to cool projects.
 
 
 ## 🌐 Socials:
